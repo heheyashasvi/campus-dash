@@ -66,7 +66,7 @@ The backend data is provided by independent services handling specific domains:
    npm start
    ```
 
-## 👩‍💻 Built by
+## Built by
 
 **Yashasvi** (Enrollment: 24113147) — IIT Roorkee  
 *Problem Statement 01 — Unified Campus Intelligence Dashboard with AI Assistant*
